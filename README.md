@@ -12,9 +12,10 @@ Great for local development and testing.
 
 
 ### Install Required Python Package
-Installs kafka-python package
+Installs kafka-python package (install pipenv - pip install pipenv)
 
     pipenv install
+    pipenv shell
 
 ### Run Kafka with Docker Compose
 Starts Kafka, Zookeeper and Redpanda Console:
