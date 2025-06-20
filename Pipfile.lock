@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "c559ae57830735e2ca23f9d09e1d889f3871a6cf62373e5ca3ebb1b353d502b6"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.11"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "kafka-python": {
+            "hashes": [
+                "sha256:2817b81099bf2dc8905491d976362c151114e6d5f45817c4ec0c487b3cdc660f",
+                "sha256:bf73f7a74b596a34cfe4d22ffa53352fff0bd2b61acfa409235ed5da72a98bc1"
+            ],
+            "index": "pypi",
+            "version": "==2.2.12"
+        }
+    },
+    "develop": {}
+}
